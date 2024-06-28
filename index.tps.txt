@@ -1,0 +1,110 @@
+<html>
+    <HEAD>
+        <link rel="stylesheet" href="style3.css">
+        <TITLE>tipos de contaminación</TITLE>
+      </HEAD>
+      <body>
+<center><img src="title.png" width="600" heiht="300" ait="alttext"/></center>
+<p><h3>Los tipos de contaminación ambientales que podemos encontrar son:</h3></p> 
+<h1>Contaminación del agua</h1>
+<p><h3>Este tipo de contaminación ambiental se produce cuando se introduce un agente contaminante que altera los diferentes cauces de agua. Esta contaminación afecta a las especies animales y vegetales que habitan en dichas aguas pero, además, según la Organización de las Naciones Unidas (ONU) en la actualidad 1 de cada 3 habitantes se ve perjudicado por esta contaminación.
+
+    Entre las causas de la contaminación ambiental que se da en el agua están:</h3></p>
+    <ul>
+        <li><h3>Vertidos industriales: como insecticidas o plaguicidas que modifican los equilibrios químicos que provocan la muerte de miles de organismos acuáticos. También podemos hablar de los detergentes del lavado de ropa, que producen una eutrofización que bloquea el paso de la luz y oxígeno.</h3></li>
+        <li><h3>Vertido de aguas negras: como las aguas de zonas urbanas o industriales.</h3></li>
+        <li><h3>Vertidos de petróleo: causados por grandes petroleros y plataformas petrolíferas.</h3></li>
+        <li><h3>Desastres naturales: como inundaciones o huracanes, que mezclan el agua con sustancias nocivas.</h3></li>
+        <li><h3>Aumento de temperatura: debido al cambio climático y el sobrecalentamiento global la temperatura sube y el oxígeno del agua baja, por lo que se altera.</h3></li>
+    </ul>
+<h1>Contaminación del aire</h1>
+<p><h3>Este tipo de contaminación ambiental altera la composición química y natural del aire, afectando a toda la vida que habita el planeta, especialmente a los animales.
+     Entre las causas de la contaminación del aire encontramos estas:</h3></p>
+     <ul>
+        <li><h3>Gases expulsado por los motores de combustión.</h3></li>
+        <li><h3>Gases que liberan las industrias, como el dióxido de azufre o el monóxido de carbono.</h3></li>
+        <li><h3>Desastres naturales como los incendios, que liberan elevadas cantidades de dióxido de carbono.</h3></li>
+        <li><h3>Quema de materiales de desecho.</h3></li>
+        <li><h3>Procesos de obtención de energía, que liberan gases contaminantes.</h3></li>
+        <li><h3>Animales como las vacas.</h3></li>
+     </ul>
+<h1>Contaminación del suelo y del subsuelo</h1>
+<p><h3>Entre los distintos tipos de contaminación ambiental también encontramos la contaminación del suelo, la cual se suele producir por el uso de sustancias químicas como 
+    pesticidas, herbicidas o insecticidas, que afectan a la fertilidad del suelo.
+
+    Los principales afectados de esta contaminación son las plantas (e indirectamente, los animales), ya que son las que se nutren del los nutrientes del suelo. Además, 
+    la ausencia de plantas conduce a la erosión del suelo, otro problema más que se añade en la zona en la que haya contaminación de los suelos.</h3></p>
+<h1>Contaminación térmica</h1>
+<p><h3>Este tipo de contaminación se produce como consecuencia de las modificaciones en el clima global, especialmente por un aumento de temperatura. Estas modificaciones se 
+    producen de forma artificial por la emisión de gases o partículas, por lo tanto, está muy relacionada con la contaminación del aire.
+
+    Las causas pueden ser las industrias que liberan grandes cantidades de energía térmica o los motores de los automóviles, además de los mencionados gases. Este tipo de 
+    contaminación conduce a grandes problemas ambientales y de salud.</h3></p>
+<h1>Contaminación radiactiva</h1>
+<p><h3>Este tipo de contaminación ambiental se produce por la liberación de sustancias con la capacidad de emitir residuos radiactivos al medio, como rayos beta. Entre las causas 
+    pueden estar la liberación de residuos radiactivos de las centrales nucleares, daños en reactores nucleares o el uso de armas nucleares. Esta contaminación es muy perjudicial 
+    para los seres vivos, ya que las sustancias radiactivas afectan al ADN directamente y producen graves malformaciones y mutaciones, entre ellas enfermedades.</h3></p>
+<h1>Contaminación acústica</h1>
+<p><h3>Este tipo de contaminación se produce como consecuencia del exceso de ruido que se da en las ciudades, sobre todo, por las actividades humanas como vehículos, construcciones o el 
+    uso de maquinaria pesada. La contaminación acústica, no es un tipo de contaminación que afecte especialmente a la supervivencia de los seres vivos. No obstante, sí podemos decir 
+    que la contaminación acústica sí afecta a los hábitos alimentarios y reproductivos, migraciones, produce problemas acústicos y problema de bienestar.</h3></p>
+<h1>Contaminación lumínica</h1>
+<p><h3>Aunque no lo parezca, se trata de uno de los tipos de contaminación más comunes, ya que se produce especialmente en las ciudades como consecuencia de las actividades humanas. Al igual 
+    que la contaminación acústica no afecta excesivamente a la supervivencia, pero sí produce enfermedades oculares, dolores de cabeza, migrañas, afecta a hábitos alimentarios y reproductivos, 
+    migraciones o bienestar en general.</h3></p>
+<h1>Contaminación electromagnética</h1>
+<p><h3>La contaminación electromagnética es un tipo de contaminación ambiental que se produce como consecuencia de la emisión de partículas electromagnéticas, emitidas principalmente por actividades 
+    humanas como las actividades industriales. El hecho de estar rodeadores de smartphones, ordenadores y cada vez más tecnología implica que nos rodeamos de más ondas electromagnéticas y por lo 
+    tanto nos exponemos al peligro.
+
+    La contaminación producida por electromagnetismo provoca enfermedades neurológicas y afecta a distintos hábitos de los seres vivos. Si bien, este tipo de contaminación y sus consecuencias aún genera un gran debate.</h3></p>
+<h1>Contaminación visual</h1>
+<p><h3>La contaminación visual es muy habitual en cualquier ciudad. Se trata de aquellos elementos visuales que están presentes en un sitio y perturban la estética del paisaje, todos aquellos elementos
+     que no son naturales y que nos van mandando continuos estímulos visuales. Un ejemplo de ello son las luces o la publicidad, que nos avasalla a cada paso que damos.
+
+    Este exceso de formas, luces, colores e información provoca que nuestro cerebro sea incapaz de procesarlo. La contaminación visual no es únicamente un problema estético, sino que nos causa perjuicios 
+    en la salud, tanto ocular, como alteraciones en la tensión o estrés.</h3></p>
+<h1>Contaminación alimentaria</h1>
+<p><h3>El consumo de productos, tanto naturales como procesados, es una de las principales formas con la que agentes tóxicos y contaminantes entran en nuestro organismo. Aunque a día de hoy hay muchos protocolos y 
+    controles que buscan evitar que haya elementos tóxicos en los alimentos, la realidad es que el riesgo 0 nunca existe y, en consecuencia, se compromete la salud de animales y personas.</h3></p>
+<h1>Contaminación microbiológica</h1>
+<p><h3>La contaminación por microbios o contaminación microbiológica se puede dar en cualquier medio: el suelo, el agua, los alimentos, etc. Sucede cuando organismos microscópicos invaden dicha zona de forma que la 
+    dañan. Por ejemplo, puede darse contaminación microbiológica por:</h3></p>
+    <ul>
+        <li><h3> bacterias.</h3></li>
+        <li><h3> Los virus.</h3></li>
+        <li><h3>Los protozoos.</h3></li>
+        <li><h3>Los hongos.</h3></li>
+        <li><h3>Los helmintos.</h3></li>
+        <li><h3>Los artrópodos.</h3></li>
+    </ul>
+<h1>Contaminación química</h1>
+<p><h3>La contaminación química es la contaminación que se da cuando hay una introducción de un agente químico externo y ajeno en un ecosistema. Aunque muchos creen que la contaminación química tan solo se da en fábricas, 
+    la realidad no es así. De hecho, debido a que los agentes químicos pueden viajar por el aire u otros medios, nos encontramos que la contaminación química se halla en las aguas residuales, en los focos de emisiones o lixiviados.</h3></p>
+<h1>Contaminación genética</h1>
+<p><h3>La contaminación genética es la que se da cuando hay una transferencia de material genético. Dicha contaminación afecta al patrimonio genético de una especie o de una población salvaje, por lo que puede llegar a afectar gravemente 
+    al estado de la biodiversidad genética, lo que puede llevar a una pérdida de especies y, por ende, de biodiversidad en un ecosistema o biotopo</h3></p>
+<h1>Contaminación ambiental por basura</h1>
+<p><h3>Una de las causas más notorias de la contaminación ambiental es la acumulación de basura de todo tipo en todo el mundo, en tierra y en océanos. La contaminación por basura se da por los residuos producidos por la actividad humana 
+    que no son gestionados de forma correcta. Esto provoca la degradación del suelo, del agua, de la salud, etc.</h3></p>
+<h1>Contaminación por plásticos</h1>
+<p><h3>Debido al sobreconsumo de plásticos y a su mala gestión como residuos, aparece la contaminación por plásticos, tanto grandes como microscópicos (los microplásticos). Esta contaminación afecta a todo el medio ambiente, la hay en la 
+tierra, en el agua y en la salud de los organismos, incluida nuestra salud.</h3></p>
+<h1>Contaminación según la extensión de la fuente</h1>
+<p><h3>Como ya hemos visto en qué consisten los anteriores tipos de contaminación más comunes, a continuación vamos a hablar de una clasificación de dichas contaminaciones según la extensión de la fuente. Podemos hablar de:</h3></p>
+<ul>
+    <li><h3>Contaminación puntual: en este tipo de contaminación podemos identificar a la perfección el punto exacto en el que se produce.</h3></li>
+    <li><h3>Contaminación lineal: tal y como su nombre indica, se produce a lo largo de una línea. Un ejemplo de este tipo de contaminación es la acústica.</h3></li>
+    <li><h3>Contaminación difusa: el contaminante se mueve por todos los medios y no tiene un origen concreto. Puede circular por la tierra, el agua y el aire</h3></li>
+</ul>
+<h1>Consecuencias de la contaminación ambiental</h1>
+<p><h3>Ya hemos podido comprobar que cada tipo de contaminación tiene sus respectivas consecuencias, tales como enfermedades neurológicas, enfermedades respiratorias o la destrucción de hábitats y ecosistemas. A continuación, vamos a 
+    mencionar otras de las consecuencias de la contaminación ambiental para tener una información más completa sobre el tema:</h3></p>
+    <ul>
+        <li><h3>Pérdida calidad del agua: ello queda demostrado con que aproximadamente 1 millón de personas no tiene acceso a agua potable.</h3></li>
+        <li><h3>Lluvia ácida: la combinación de vegetación en mal estado o podrida con volcanes en erupción podrían provocar este tipo de lluvia.</h3></li>
+        <li><h3>Cambio climático y calentamiento global: mencionar este problema como una de las como una de las consecuencias de la contaminación ambiental suena genérico pero, a su vez, nos demuestra la gravedad del asunto.</h3></li>
+        <li><h3>Rendimiento de las energías renovables: el hecho de que exista contaminación en distintos medios que afecta a distintos sistemas, como las placas solares, impide el buen desarrollo de energías renovables.</h3></li>
+    </ul>
+</body>
+</html>
